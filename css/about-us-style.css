@@ -1,0 +1,73 @@
+#about{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding-left: 40px;
+    background-image: url(../images/clouds.png);
+    height: 35%;
+    padding-top: 10vw;
+    padding-bottom: 2vw;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+#desc p{
+    color: white;
+}
+
+figure figcaption{
+    color: white;
+}
+
+#content-about{
+    display: flex;
+    padding-top: 15px;
+    padding-left: 10vw;
+    padding-right: 10vw;
+}
+
+#about h1{
+    font-size: 15pt;
+    padding-bottom: 5px;
+}
+
+#founders img{
+    width: 60%;
+}
+
+#desc{
+    padding: 10px;
+}
+
+#desc h1{
+    color: white;
+}
+
+#desc img{
+    width: 100px;
+}
+
+#satu{
+    display: flex;
+    justify-content: space-between;
+}
+
+#dua{
+    display: flex;
+    justify-content: space-between;
+}
+
+#tiga{
+    display: flex;
+    justify-content: space-between;
+}
+
+.person{
+    padding: 10px;
+}
+
+.person p{
+    text-align: center;
+}
+
+

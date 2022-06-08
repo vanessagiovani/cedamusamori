@@ -1,0 +1,94 @@
+@media all and (max-width: 800px) {
+    .nav-bar a{
+        font-size: 15px;
+    }
+
+    .game-title h2{
+        font-size: 20px;
+    }
+
+    #contact-us{
+        margin-right: 0px;
+    }
+
+    #topicTxt p{
+        font-size: 15pt;
+    }
+
+    #channel p{
+        font-size: 15pt;
+    }
+
+    #combine{
+        display: inline;
+    }
+
+    #narrative p{
+        font-size: 10pt;
+        padding-bottom: 10px;
+    }
+
+    #merchandiseTxt p{
+        font-size: 15pt;
+    }
+
+    #footer-title h2{
+        font-size: 17px;
+    }
+
+    #footer-title h3{
+        font-size: 13px;
+    }
+
+    .contact-us-title h2{
+        font-size: 17px;
+    }
+
+    #socmed a{
+        font-size: 11px;
+    }
+
+    #txt1 h2{
+        font-size: 15pt;
+    }
+
+    #txt2 h2{
+        font-size: 15pt;
+    }
+
+    #products{
+        display: inline;
+    }
+
+    #cupid img{
+        width: 20vw;
+    }
+
+    #right{
+        max-width: 500px;
+    }
+
+    #right h2{
+        font-size: 17px;
+    }
+
+    #right h3{
+        font-size: 15px;
+    }
+
+    #right p{
+        font-size: 14px;
+    }
+
+    #content-about{
+        display: inline;
+        justify-content: center;
+        text-align: center;
+    }
+
+    #left img{
+        width: 300px;
+    }
+
+
+}
